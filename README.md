@@ -18,3 +18,5 @@ e-commerce dataset link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 Not: RFM_example.sql dosyası travel veri tabanındaki booking tablosu üzerinden yapılmıştır.
 Travel veri tabanındaki veri setlerine aşağıdaki linkten ulaşılabilir:
 
+https://github.com/handecavsi/SQL-modul
+
