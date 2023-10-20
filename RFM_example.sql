@@ -1,3 +1,6 @@
+--Buradaki RFM sql'leri travel veri tabanında bulunan booking tablosu üzerinde yapılmıştır.
+--Projede kullanılan veri tabanından farklı olarak örnek gösterimler sunulmuştur.
+
 select * from booking limit 100
 
 --Recency hesaplamak için müşterinin en son yaptığı alışveriş tarihi bilgisi gerekir.
