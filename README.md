@@ -12,6 +12,7 @@ RFM; Recency, Frequency, Monetary kelimelerinin baş harflerinden oluşur.
 - RFM Analizi belirli kriterlere göre müşteriye özel kampanyalar hazırlamak için kullanılır.
 
 Bu projede; e-commerce dataset'i kullanılarak; PosrgreSQL üzerinde RFM analizi yapılmıştır.
+İlgili SQL sorguları RFM.sql dosyası içerisindedir.
 
 e-commerce dataset link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
