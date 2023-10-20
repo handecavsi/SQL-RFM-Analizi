@@ -10,3 +10,7 @@ RFM; Recency, Frequency, Monetary kelimelerinin baş harflerinden oluşur.
 - Monetary; Müşterilerin yaptığı harcamaların toplam tutarını ifade eder.
 
 - RFM Analizi belirli kriterlere göre müşteriye özel kampanyalar hazırlamak için kullanılır.
+
+Bu projede; e-commerce dataset'i kullanılarak; PosrgreSQL üzerinde RFM analizi yapılmıştır.
+
+e-commerce dataset link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
