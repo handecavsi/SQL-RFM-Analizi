@@ -16,6 +16,11 @@ Bu projede; e-commerce dataset'i kullanılarak; PosrgreSQL üzerinde RFM analizi
 
 e-commerce dataset link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
+_Veri setini import etmek için kullanılan komut:_
+
+    COPY ecommerce (invoice_no,stock_code,description,quantity,invoice_date,unit_price,customer_id,country)
+    FROM '/Library/PostgreSQL/15/e-commerce.csv' WITH (FORMAT CSV, DELIMITER ',', ENCODING 'WIN1252', HEADER);
+
 Not: RFM_example.sql dosyası travel veri tabanındaki booking tablosu üzerinden yapılmıştır.
 Travel veri tabanındaki veri setlerine aşağıdaki linkten ulaşılabilir:
 
